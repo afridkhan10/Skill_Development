@@ -7,3 +7,4 @@ for i in range(len(arr)//2):
     op.append(temp)
     # print(op)
 print(op)
+
